@@ -1,0 +1,12 @@
+accelerate>=1.2
+datasets>=3.2
+huggingface-hub>=0.27
+matplotlib>=3.8
+numpy>=1.26
+peft>=0.14
+scipy>=1.11
+tokenizers>=0.21
+torch>=2.4
+transformers>=4.48
+trl>=0.16
+vllm>=0.7

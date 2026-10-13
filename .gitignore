@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.cache/
+data/*.jsonl
+outputs/
+logs/
+checkpoints/
+*.log
+*.csv
+*.zip
